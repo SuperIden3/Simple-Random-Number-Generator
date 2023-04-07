@@ -1,0 +1,18 @@
+{
+  "name": "random-number-generator",
+  "version": "1.0.0",
+  "description": "Generates a random number.",
+  "main": "index.html",
+  "scripts": {
+    "test": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SuperIden3/Snippets/blob/NodeJS/pickRandom.jshttps://github.com/SuperIden3/Snippets/blob/NodeJS/pickRandom.js"
+  },
+  "author": "SuperIden3",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
